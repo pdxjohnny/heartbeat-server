@@ -1,0 +1,23 @@
+{
+  "name": "heartbeat-server",
+  "version": "0.0.0",
+  "description": "Game that takes heartbeats as input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdxjohnny/heartbeat-server.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/pdxjohnny/heartbeat-server/issues"
+  },
+  "homepage": "https://github.com/pdxjohnny/heartbeat-server#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socketio": "^1.0.0"
+  }
+}
